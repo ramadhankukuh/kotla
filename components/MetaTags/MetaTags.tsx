@@ -6,7 +6,7 @@ export const MetaTags = () => {
     'Tebak kota rahasia dalam 6 percobaan. Kota baru tersedia setiap hari.'
   const keywords =
     'game, permainan, tebak, kata, kabupaten, kota, rahasia, wordle, indonesia, katla'
-  const url = 'https://kotla.vercel.app/'
+  const url = 'https://kotla.ramadhankukuh.my.id'
   const ogImage = 'https://kotla.vercel.app/og2.png'
 
   /* teal-100 */
