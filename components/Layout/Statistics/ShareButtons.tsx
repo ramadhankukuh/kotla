@@ -110,7 +110,7 @@ const template = `Kotla :kotlaSeries: :guessCount:/6
 :guess4:
 :guess5:
 
-https://kotla.vercel.app
+https://kotla.ramadhankukuh.my.id
 `
 
 const today = new Date()
