@@ -96,6 +96,9 @@ export const HowToPlayModal = ({ onClose, isOpen }: Props) => {
       <Paragraph>
         Akan ada <strong className="uppercase">Kotla</strong> baru setiap hari!
       </Paragraph>
+      <Paragraph>
+        inspired by Katla, wordle and worldle. sc: jackyef
+      </Paragraph>
       <div className="mt-4 flex justify-end">
         <Button
           type="button"
